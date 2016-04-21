@@ -4,14 +4,14 @@ namespace aliuly\common;
 use pocketmine\entity\Human;
 use pocketmine\level\Location;
 
-use pocketmine\nbt\tag\Byte;
+use pocketmine\nbt\tag\ByteTag;
 use pocketmine\nbt\tag\Tag;
-use pocketmine\nbt\tag\Compound;
-use pocketmine\nbt\tag\Double;
+use pocketmine\nbt\tag\CompoundTag;
+use pocketmine\nbt\tag\DoubleTag;
 use pocketmine\nbt\tag\Enum;
-use pocketmine\nbt\tag\Float;
-use pocketmine\nbt\tag\String;
-use pocketmine\nbt\tag\Int;
+use pocketmine\nbt\tag\FloatTag;
+use pocketmine\nbt\tag\StringTag;
+use pocketmine\nbt\tag\IntTag;
 
 /**
  * This class implements an NPC player
